@@ -1,0 +1,16 @@
+#header  {
+    height: 60px;
+    background: #f57d1a;
+    color: #fff;
+}
+
+#branding h1 {
+    color:#fff;
+    font-weight: 400;
+}
+
+div.breadcrumbs {
+    background: rgb(10, 1, 49);
+    margin-bottom: 1rem;
+}
+
